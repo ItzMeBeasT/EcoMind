@@ -1,0 +1,14 @@
+# EcoMind AI — Sustainability & Carbon Mitigation Framework
+
+1. SDG 7 & Clean Energy Alignment
+   - EcoMind AI aligns primarily with United Nations Sustainable Development Goal 7 (Affordable and Clean Energy), Target 7.3 (Double the rate of improvement in energy efficiency by 2030).
+   - Energy optimization reduces thermal power grid reliance and operational energy overhead.
+
+2. Emission Calculations & Methodology
+   - Grid electricity emission factor assumption: ~0.82 kg CO2e per kWh (typical grid average baseline for demonstration calculations).
+   - Energy saving impact calculations are labeled as scenario estimates based on user-defined operational assumptions.
+
+3. Responsible AI & Transparency Standards
+   - Synthetic data limitation: The current operational dataset is synthetic and must be explicitly identified as such in all reports.
+   - Algorithmic transparency: Anomaly scoring and load forecasts provide explicit feature inputs and confidence context.
+   - Privacy protection: Smart meter data contains zero personally identifiable student or faculty information.

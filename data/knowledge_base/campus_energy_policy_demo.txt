@@ -1,0 +1,17 @@
+# EcoMind AI — Campus Energy Policy (Demo Policy Framework)
+
+1. Purpose and Scope
+   - This policy establishes guidelines for energy conservation, demand management, and sustainable building operation across all campus facilities.
+   - It applies to Academic Blocks, Computer Laboratories, Libraries, Hostels, and Administrative Facilities.
+
+2. Target Energy Standards
+   - Target a 10% overall reduction in non-essential power consumption across all campus facilities during peak hours.
+   - Maintain power factor above 0.95 to optimize grid power quality and reduce billing penalties.
+
+3. Monitoring & Reporting Protocol
+   - Building managers must review weekly energy analytics reports and anomaly alerts provided by EcoMind AI.
+   - Any persistent anomaly exceeding 2.0 standard deviations above baseline requires physical audit within 48 hours.
+
+4. Governance & Human Oversight
+   - Recommendations produced by EcoMind AI are advisory tools for facility managers and sustainability coordinators.
+   - Facility managers retain final operational authority over HVAC, lighting, and power distribution adjustments.

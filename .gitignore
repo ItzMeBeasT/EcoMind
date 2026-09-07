@@ -1,0 +1,19 @@
+# Python cache & virtual environment
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+ENV/
+
+# Environment secrets
+.env
+.streamlit/secrets.toml
+
+# IDE & OS files
+.DS_Store
+.vscode/
+.idea/
+
+# Pytest cache
+.pytest_cache/
